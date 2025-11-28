@@ -1,18 +1,91 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+<h1 align="center">Hi 👋, I'm Samuel Majer</h1>
+<h3 align="center">A passionate frontend developer</h3>
+
+- 🔭 I’m currently working on [Dont worry](https://github.com/Domysli-si/Dont-worry.git)  
+- 🌱 I’m currently learning **Python 🐍**  
+- 📫 How to reach me: **s.maj683@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/samuel-majer/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+</p>
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-majer-6796212a2/) 
+## 🛠 Tools & Technologies
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Domysli-si&theme=transparent&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Domysli-si&theme=transparent&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Domysli-si&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<table>
+  <tr>
+    <!-- Tools Column -->
+    <td valign="top">
+      <h4>Tools</h4>
+      <table>
+        <tr>
+          <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"> HTML</td>
+          <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40"> VUE</td>
+        </tr>
+        <tr>
+          <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"> CSS</td>
+          <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"> REACT</td>
+        </tr>
+        <tr>
+          <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"> NODE</td>
+          <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40"> ORACLE</td>
+        </tr>
+      </table>
+    </td>
+    <!-- Languages Column -->
+    <td valign="top" style="padding-left: 50px;">
+      <h4>Languages</h4>
+      <table>
+        <tr>
+          <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40"> TS</td>
+          <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"> Java</td>
+        </tr>
+        <tr>
+          <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"> JS</td>
+          <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"> Python</td>
+        </tr>
+      </table>
+    </td>
+    <td valign="top" style="padding-left: 100px;">
+      <h4>Languages</h4>
+      <table>
+        <tr>
+          <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"> LINUX</td>
+          <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"> GIT</td>
+          <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/framer/framer-original.svg" width="40"> FRAMER</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
----
-[![](https://visitcount.itsvg.in/api?id=Domysli-si&icon=5&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h2>GitHub Stats</h2>
+<table>
+  <tr>
+    <td style="border:1px solid #d3d3d3; padding:5px; border-radius:8px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=Domysli-si&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" />
+    </td>
+    <td style="border:1px solid #d3d3d3; padding:5px; border-radius:8px; margin-left:10px;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Domysli-si&theme=transparent&hide_border=true" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" style="border:1px solid #d3d3d3; padding:5px; border-radius:8px; margin-top:10px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Domysli-si&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
+    </td>
+  </tr>
+</table>
+
+
+## 💡 About Me / Suggested Additional Blocks
+
+- **About Me:** krátký text o přístupu k vývoji, co tě baví, oblíbené technologie.  
+- **Projects:** seznam projektů s odkazy a krátkým popisem.  
+- **Questions / Fun Facts:** např. „Jaký je můj oblíbený framework?“ nebo „Kolik hodin denně kóduji?“.  
+- **Tech Radar:** diagram nebo vizuál oblíbených technologií (frekvence používání).  
+- **Learning Progress:** vizualizace aktuálně studovaných jazyků/frameworků.  
+
