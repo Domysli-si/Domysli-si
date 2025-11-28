@@ -80,12 +80,3 @@
   </tr>
 </table>
 
-
-## 💡 About Me / Suggested Additional Blocks
-
-- **About Me:** krátký text o přístupu k vývoji, co tě baví, oblíbené technologie.  
-- **Projects:** seznam projektů s odkazy a krátkým popisem.  
-- **Questions / Fun Facts:** např. „Jaký je můj oblíbený framework?“ nebo „Kolik hodin denně kóduji?“.  
-- **Tech Radar:** diagram nebo vizuál oblíbených technologií (frekvence používání).  
-- **Learning Progress:** vizualizace aktuálně studovaných jazyků/frameworků.  
-
