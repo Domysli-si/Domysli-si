@@ -50,12 +50,12 @@
       </table>
     </td>
     <td valign="top" style="padding-left: 100px;">
-      <h4>Languages</h4>
+      <h4>Others</h4>
       <table>
         <tr>
           <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"> LINUX</td>
           <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"> GIT</td>
-          <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/framer/framer-original.svg" width="40"> FRAMER</td>
+          <td><img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/framer/framer-original.svg](https://raw.githubusercontent.com/devicons/devicon/master/icons/framer/framer-original.svg)" width="40"> FRAMER</td>
         </tr>
       </table>
     </td>
