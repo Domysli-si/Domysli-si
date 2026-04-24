@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Samuel Majer</h1>
+<h1 align="center"> I'm Samuel Majer</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- 🔭 I’m currently working on [Dont worry](https://github.com/Domysli-si/Dont-worry.git)  
-- 🌱 I’m currently learning **Python 🐍**  
-- 📫 How to reach me: **s.maj683@gmail.com**
+- I’m currently working on [Dont worry](https://github.com/Domysli-si/Dont-worry.git)  
+- I’m currently learning **Python 🐍**  
+- How to reach me: **s.maj683@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -13,7 +13,7 @@
 </p>
 
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 
 <table>
   <tr>
