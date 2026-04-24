@@ -1,7 +1,7 @@
 <h1 align="center"> I'm Samuel Majer</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
-- I’m currently working on [Dont worry](https://github.com/Domysli-si/Dont-worry.git)  
+- I’m currently working on ... 
 - I’m currently learning **Python 🐍**  
 - How to reach me: **s.maj683@gmail.com**
 
